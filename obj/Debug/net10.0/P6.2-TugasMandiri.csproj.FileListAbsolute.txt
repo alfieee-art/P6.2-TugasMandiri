@@ -1,0 +1,14 @@
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.AssemblyInfoInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.AssemblyInfo.cs
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.csproj.CoreCompileInputs.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\bin\Debug\net10.0\P6.2-TugasMandiri.exe
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\bin\Debug\net10.0\P6.2-TugasMandiri.deps.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\bin\Debug\net10.0\P6.2-TugasMandiri.runtimeconfig.json
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\bin\Debug\net10.0\P6.2-TugasMandiri.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\bin\Debug\net10.0\P6.2-TugasMandiri.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\refint\P6.2-TugasMandiri.dll
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.pdb
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\P6.2-TugasMandiri.genruntimeconfig.cache
+C:\Users\HP EliteBook\OneDrive\Dokumen\P6.2-TugasMandiri\obj\Debug\net10.0\ref\P6.2-TugasMandiri.dll

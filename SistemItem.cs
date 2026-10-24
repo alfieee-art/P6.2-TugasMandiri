@@ -1,0 +1,10 @@
+using System;
+using System.Collections.Generic;
+ 
+abstract class Item
+{
+    public string Name { get; }
+    protected Item(string name) { Name = name; }
+ 
+    public abstract void Use();
+}
